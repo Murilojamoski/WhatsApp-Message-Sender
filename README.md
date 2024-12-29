@@ -38,9 +38,9 @@ Este projeto automatiza o envio de mensagens no WhatsApp. É ideal para marketin
    ```
 
 ## Como Usar
-1. Escaneie o QR Code exibido no terminal para conectar sua conta do WhatsApp.
-2. Edite o arquivo `app.js` para adicionar os números e a mensagem desejada.
-3. Execute novamente para enviar as mensagens.
+1. Edite o arquivo `app.js` para adicionar os números e a mensagem desejada.
+2. Rode o código e escaneie o QR Code exibido no terminal para conectar sua conta do WhatsApp.
+3. Logo em seguida as mensagens serão enviadas e o terminal mostrara para qual números elas chegaram 
 
 ## Contribuindo
 Contribuições são bem-vindas! Siga estas etapas:
