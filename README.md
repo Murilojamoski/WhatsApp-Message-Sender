@@ -26,7 +26,7 @@ Este projeto automatiza o envio de mensagens no WhatsApp. É ideal para marketin
    ```
 2. Entre na pasta do projeto:
    ```bash
-   cd nome-do-repositorio
+   cd WhatsApp-Message-Sender
    ```
 3. Instale as dependências:
    ```bash
