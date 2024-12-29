@@ -30,7 +30,7 @@ Este projeto automatiza o envio de mensagens no WhatsApp. É ideal para marketin
    ```
 3. Instale as dependências:
    ```bash
-   npm install
+   npm install whatsapp-web.js qrcode-terminal
    ```
 4. Execute o projeto:
    ```bash
