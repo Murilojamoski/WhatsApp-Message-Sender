@@ -22,7 +22,7 @@ Este projeto automatiza o envio de mensagens no WhatsApp. É ideal para marketin
 ## Instalação
 1. Clone este repositório:
    ```bash
-   git clone xxx
+   git clone 'https://github.com/Murilojamoski/WhatsApp-Message-Sender.git'
    ```
 2. Entre na pasta do projeto:
    ```bash
